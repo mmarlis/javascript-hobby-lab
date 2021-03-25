@@ -17,11 +17,12 @@ a:active {
 
 
 body > header, body > footer {
-    background-color: #555555;
+    background-color: #45B39D;
     height: 50px;
     padding: 20px;
     color: white;
 }
+
 
 .wrap {
     margin: 20px;
@@ -41,6 +42,10 @@ aside {
     background-color: #DFDFDF;
     border-radius: 5px;
     padding: 20px;
+}
+
+.question{
+               font-style: italic;
 }
 
 .clearfloat {
